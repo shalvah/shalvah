@@ -1,8 +1,10 @@
 "use strict";
 
 const shalvah = {
-    bio: "Hi, I'm Shalvah. I'm a backend software engineer based in Lagos, Nigeria. I currently work at NQLB (http://nqlb.co) and guest-write for Pusher.",
-    prompt: 'Want to know about me? Check me out on these sites:',
+    bio: "Hi, I'm Shalvah. I'm a backend software engineer based in Lagos, Nigeria. " +
+    "I currently work at NQLB (nqlb.co) and guest-write for Pusher (pusher.com). " +
+    "I love building challenging APIs and automating stuff.",
+    prompt: 'Want to know more about me? Check me out on these sites:',
     links: [
         {
             name: 'LinkedIn',
@@ -28,7 +30,8 @@ const shalvah = {
             name: 'StackOverflow',
             value: 'https://stackoverflow.com/users/7370522/shalvah'
         }
-    ]
+    ],
+    email: 'hello@shalvah.me'
 };
 
 module.exports = shalvah;
