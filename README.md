@@ -2,6 +2,8 @@
 
 Shalvah (yes, me😝) on your command-line.
 
+![](shalvah.gif)
+
 ```bash
 npm install -g shalvah
 
