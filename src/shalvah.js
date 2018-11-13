@@ -2,7 +2,7 @@
 
 const shalvah = {
     bio: "Hi, I'm Shalvah. I'm a backend software engineer based in Lagos, Nigeria. " +
-    "I currently work at NQLB (nqlb.co) and guest-write for Pusher (pusher.com). " +
+    "I currently work at Deimos (deimos.co.za) and guest-write for Pusher (pusher.com). " +
     "I love building challenging APIs and automating stuff.",
     prompt: 'Want to know more about me? Check me out on these sites:',
     links: [
