@@ -24,7 +24,7 @@ const shalvah = {
         },
         {
             name: 'Medium',
-            value: 'https://medium/com/@shalvah',
+            value: 'https://medium.com/@shalvah',
         },
         {
             name: 'StackOverflow',
